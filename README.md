@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kric12
-- 👀 I’m interested in working on anything from backend to frontend and anything in between.
-- 🌱 I’m currently learning MEAN Stack, Python and some other languages.
-- 💞️ I’m looking to collaborate on projects where I can push my limits and learn.
-- 📫 You can reach me on Discord:
+- 👋 Hi, I’m Christian Meneses aka @Kric12
+- 👀 I’m interested in any project that involves Java, Javascript, C#, Python, SQL/Mongo.
+- 💞️ I’m looking to collaborate on projects where I can push my limits and improve my coding.
+- 📫 You can reach me on Discord: 
 
 <!---
 Kric12/Kric12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
